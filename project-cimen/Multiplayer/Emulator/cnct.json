@@ -1,0 +1,15 @@
+{
+  "emulator_id": "emu-003",
+  "connection": {
+    "protocol": "WiFi",
+    "ip_address": "192.168.1.100",
+    "port": 8087,
+    "authentication": {
+      "method": "token",
+      "token": "absis09"
+    }
+  },
+  "auto_connect": true,
+  "retry_attempts": 3,
+  "timeout_seconds": 30
+}

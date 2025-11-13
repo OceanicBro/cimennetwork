@@ -1,0 +1,15 @@
+{
+  "hardware_id": "device-001",
+  "connection": {
+    "protocol": "WiFi",
+    "ip_address": "192.168.1.100",
+    "port": 8087,
+    "authentication": {
+      "method": "token",
+      "token": "AD084SM042"
+    }
+  },
+  "auto_connect": true,
+  "retry_attempts": 3,
+  "timeout_seconds": 10
+}

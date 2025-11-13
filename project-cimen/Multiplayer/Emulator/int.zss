@@ -1,0 +1,22 @@
+
+#hardware:
+
+ ))) hardware:001-lszzi tin:938002
+    =cnct.json - connect, port: 8087
+"method": "token",
+      token: "AD084SM042"
+     cimenn-connect
+
+-if no connection;
+
+   docycle: "#hardware"
+
+-if not two times after "#hardware" cycle;
+
+   give-message: "Error 46: Please manage your application, or application provider to use CMN."
+
+}}} 493*291*39989*
+
+          {/gotti: 759300/}..."ip_address": "192.168.1.100",
+
+

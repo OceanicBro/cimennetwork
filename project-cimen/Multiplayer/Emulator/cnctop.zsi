@@ -1,0 +1,23 @@
+}}cimennetwork.net.hw:
+
+    option: "connect other player(s)"
+
+  port: 8097 
+
+-----------ip_address: "192.168.1.100"---------
+
+    run: "cnct.json" and "int.zss"
+------------------------------------------------------
+
+    }} if-server-hosted on console (gtat: "HC0S");
+
+          -run: "networkservices.go"
+      
+                 "cmnfl"
+  
+    port: 8097   ip: 192.168.1.100
+
+-----------------------------------no-c0nnecti0n:
+
+      }}-fosnak: "1960388";      timeout: 10 sc. (all)
+ 
