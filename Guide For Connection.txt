@@ -1,0 +1,25 @@
+Hello. This is the guide for usage of Cimen Networks.
+
+STEP 1:
+
+You have to download files, security patches too.
+
+STEP 2:
+
+Open your hardware/emulator. If emulator, go to your real device's Internet settings. If real hardware, go to Internet settings (If it has).
+
+STEP 3:
+
+Open my files and provided "RunServers.exe".
+
+STEP 4:
+
+A wired/wireless connection has such names like "SERVER-0948".
+
+STEP 5:
+
+Connect and give the token (You can see in cnct.json) as password.
+
+BOOM! Connected. If this is YOUR friend connecting, give them the token and files. Also, these files will detect if it is you or your friend.
+
+No connecting? Support files will come soon. MADE BY: OceanicBro on GitHub.
